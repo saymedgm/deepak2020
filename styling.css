@@ -1,0 +1,21 @@
+.myimage{
+background-color: cornflowerblue;    
+    
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2{
+    text-align: center;
+    font-family: monospace;
+}
+
+.abtme{
+     margin-left: auto;
+    margin-right: auto;
+    font-family: monospace;
+}

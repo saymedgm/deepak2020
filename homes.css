@@ -1,0 +1,44 @@
+body{
+    font-family: monospace;
+    
+}
+
+
+
+.nav{
+    list-style: none;
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image{
+    margin-left: auto;
+    margin-top: auto;
+    width: 60%;
+    display: block;
+    
+    
+}
+.row{
+    max-width: 1180px;
+    margin-top: 0px;
+}
+
+li{
+    float :right;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.nav:hover{
+    background-color: red;
+    text-decoration-color: azure;
+}
+
+ul{
+    background-color: black;
+    
+}
